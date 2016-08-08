@@ -1,0 +1,5 @@
+{% extends "hcron_web_main.dtl" %}
+
+{% block mainContent %}
+
+{% endblock %}

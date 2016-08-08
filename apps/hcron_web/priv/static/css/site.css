@@ -1,0 +1,16 @@
+.item-box {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-content: stretch;
+	align-items: stretch;
+}
+
+.item {
+	width: 300px;
+	height: 250px;
+	flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: 200px;
+}

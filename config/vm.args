@@ -1,0 +1,6 @@
+-name hcron
+
+-setcookie hcron_cookie
+
++K true
++A30
