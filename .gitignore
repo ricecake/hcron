@@ -13,7 +13,6 @@ logs
 *.plt
 _plugins
 .rebar
-rebar3
 .rebar3
 _rel
 rel/example_project
